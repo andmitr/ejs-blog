@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 [![Support me on Boosty](https://img.shields.io/badge/Boosty-Support%20me-%23f15f2c?style=for-the-badge)](https://boosty.to/theEvilGrinch/donate)
-[![Donate](https://img.shields.io/badge/Donate-%23702ff4?style=for-the-badge)](https://yoomity.ru/to/410016288289737)
+[![Donate](https://img.shields.io/badge/Donate-%23702ff4?style=for-the-badge)](https://yoomoney.ru/to/410016288289737)
 
 Modern, fast-loading blog platform powered by EJS templates. Features built-in search, RSS feed, and sitemap generation, automatic image optimization, favicon generation, cookie consent dialog, color theme management, and more. Built with modern web standards, responsive design, and SEO best practices. Deploy anywhere as static site with minimal configuration.
 
