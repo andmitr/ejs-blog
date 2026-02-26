@@ -1,11 +1,8 @@
 # EJS Blog
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-
-[![Support me on Boosty](https://img.shields.io/badge/Boosty-Support%20me-%23f15f2c?style=for-the-badge)](https://boosty.to/theEvilGrinch/donate)
-[![Donate](https://img.shields.io/badge/Donate-%23702ff4?style=for-the-badge)](https://yoomoney.ru/to/410016288289737)
-
 Modern, fast-loading blog platform powered by EJS templates. Features built-in search, RSS feed, and sitemap generation, automatic image optimization, favicon generation, cookie consent dialog, color theme management, and more. Built with modern web standards, responsive design, and SEO best practices. Deploy anywhere as static site with minimal configuration.
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square&logo=opensource)](LICENSE)
 
 ## Table of Contents
 
@@ -19,11 +16,10 @@ Modern, fast-loading blog platform powered by EJS templates. Features built-in s
   - [Required Customization](#required-customization)
   - [Build for Production](#build-for-production)
 - [Development](#development)
-  - [Dependencies](#dependencies)
   - [Run Development Server](#run-development-server)
   - [Available Scripts](#available-scripts)
   - [Browser Launch Scripts](#browser-launch-scripts)
-- [Contributing](#contributing)
+- [Sponsorship](#sponsorship)
 - [License](#license)
 
 ## Features
@@ -169,26 +165,6 @@ Command will:
 
 ## Development
 
-### Dependencies
-
-- `@stylistic/stylelint-plugin`: Stylelint plugin for styling rules
-- `browser-sync`: Development server with live reload
-- `ejs`: Template engine for generating HTML
-- `esbuild`: JavaScript bundler and minifier
-- `eslint`: JavaScript linter
-- `fs-extra`: File system operations
-- `gh-pages`: Deployment to GitHub Pages
-- `globals`: Global variables for ESLint
-- `html-minifier-terser`: HTML minification
-- `imagemin`: Image optimization
-- `imagemin-pngquant`: PNG optimization
-- `pagefind`: Full-text search
-- `png2icons`: Favicon generation
-- `sass`: CSS preprocessor
-- `sharp`: Image processing
-- `stylelint`: CSS/SCSS linter
-- `svgo`: SVG optimization
-
 ### Run Development Server
 
 Start the development server with file watching:
@@ -227,10 +203,19 @@ browserSync: {
 }
 ```
 
-## Contributing
+## Sponsorship
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+[![Boosty](https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&logo=boosty&logoColor=white)![Support](https://img.shields.io/badge/Support%20me-grey?style=for-the-badge)](https://boosty.to/andmitr/donate) 
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white&logoSize=auto) 
+```
+1CCnwAvJYEoDVGM7vsBg2Q99cF9EHtBVaY
+```
+![Tether](https://img.shields.io/badge/Tether%20(USDT%20ETH)-168363?style=flat&logo=tether&logoColor=white&logoSize=auto) 
+```
+0x54f0ccc6b2987de454f69f2814fc9202bcfb74fe
+```
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+MIT Licensed. See [LICENSE](LICENSE) for details.
