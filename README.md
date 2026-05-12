@@ -103,8 +103,8 @@ Modern, fast-loading blog platform powered by EJS templates. Features built-in s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/andmitr/static-blog-generator.git
-   cd static-blog-generator
+   git clone https://github.com/andmitr/ejs-blog.git
+   cd ejs-blog
    ```
 
 2. Install dependencies:
